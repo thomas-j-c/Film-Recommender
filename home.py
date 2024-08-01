@@ -3,7 +3,7 @@ import pickle
 import requests
 
 def getPoster(filmID):
-    url = "https://api.themoviedb.org/3/movie/{}?api_key=1c35f49765d39585e570f35036513c0a&language=en-US".format(filmID)
+    url = "https://api.themoviedb.org/3/movie/{}?api_key=&language=en-US".format(filmID)
     data = requests.get(url).json()
     return "https://image.tmdb.org/t/p/w500/" + data["poster_path"]
 
