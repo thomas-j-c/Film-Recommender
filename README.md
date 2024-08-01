@@ -2,9 +2,7 @@
 
 ## Example use 
 
-
-https://github.com/user-attachments/assets/0e613ba5-259c-496e-bd5d-6c5ca01933ed
-
+https://github.com/user-attachments/assets/a9fedbec-c5c3-4d2b-9076-42af89b7388f
 
 ## Information 
 
